@@ -1,16 +1,16 @@
 # Hi there, I'm Ryan Lagasse 👋
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savarjain/)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jainsavar@gmail.com)
-[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.jainsavar.com)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lagasse-ryan/)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryan.lagasse@uconn.edu)
 <br>
 
 - 🔭 I am a Machine Learning and Data Science Intern at Hubbell Inc.
+- 💻 I have a strong understanding of OOP, Machine Learning, Data Structures, and Code Lifecycle
 - 🌱 I am currently developing an ML NLP stock analysis program and developing new ML models
 - 🔥 I am currently learning RUST
 
 ---
 
-### 👨‍💻 Technologies 
+### 📱 Technologies 
 
 <div style="display:flex">
 <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
