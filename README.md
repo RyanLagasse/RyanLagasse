@@ -5,8 +5,10 @@
 
 - 🔭 I am a Machine Learning and Data Science Intern at Hubbell Inc.
 - 💻 I have a strong understanding of OOP, Machine Learning, Data Structures, and Code Lifecycle
-- 🌱 I am currently developing an ML NLP stock analysis program and developing new ML models
+- 🌱 I am currently developing an AI generative stock analysis program and developing new ML models
+- 🔬 I am currently on an LLM research team
 - 🔥 I am currently learning RUST
+
 
 ---
 
