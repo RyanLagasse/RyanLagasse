@@ -3,11 +3,11 @@
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryan.lagasse@uconn.edu)
 <br>
 
-- 🔭 I am a Machine Learning and Data Science Intern at Hubbell Inc.
+- 🔭 I am a Prev. Machine Learning and Data Science Intern at Hubbell Inc.
 - 💻 I have a strong understanding of OOP, Machine Learning, Data Structures, and Code Lifecycle
-- 🌱 I am currently developing an AI generative stock analysis program and developing new ML models
-- 🔬 I am currently on an LLM research team
-- 🔥 I am currently learning RUST
+- 🌱 I am currently working on novel RL Intelligent Agents and Machine Teaching
+- 🔬 I am currently in a Deep Learning Lab working on classification of life-threatening ventricular arrhythmias
+- 🔥 I am currently learning about RL Agents
 
 
 ---
