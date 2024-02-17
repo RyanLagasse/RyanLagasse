@@ -3,11 +3,11 @@
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryan.lagasse@uconn.edu)
 <br>
 
-- 🔭 I am a Prev. Machine Learning and Data Science Intern at Hubbell Inc.
-- 💻 I have a strong understanding of OOP, Machine Learning, Data Structures, and Code Lifecycle
-- 🌱 I am currently working on novel RL Intelligent Agents and Machine Teaching
-- 🔬 I am currently in a Deep Learning Lab working on classification of life-threatening ventricular arrhythmias
-- 🔥 I am currently learning about RL Agents
+- 🔭 I am an incoming Intern @ Lockheed AI Innovations working with the RL + CVS
+- 💻 Leacturer of UCONNs CSE 4095 - Introduction to Transformers!
+- 🌱 Currently working on novel RL Intelligent Agents and Machine Teaching Research
+- 🔬 My research interests include RL/RLHF/RLAIF, Transformers, and Deep Learning
+- 🔥 Currently learning about RL Agents
 
 
 ---
