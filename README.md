@@ -7,7 +7,7 @@
 - 💻 Leacturer of UCONNs CSE 4095 - Introduction to Transformers!
 - 🌱 Currently working on novel RL Intelligent Agents and Machine Teaching Research
 - 🔬 My research interests include RL/RLHF/RLAIF, Transformers, and Deep Learning
-- 🔥 Currently learning about RL Agents
+- 🔥 Currently learning about RL Agents and reading the Deepmind Dreamer Papers
 
 
 ---
