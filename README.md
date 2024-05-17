@@ -6,7 +6,7 @@
 - 🔭 AI/ML Intern @ Lockheed AI Innovations working with the RL + CVS Teams
 - 🧪 Alignment Researcher @ UCONN RIET Lab
 - 💻 Leacturer of UCONNs CSE 4095 - Introduction to Transformers!
-- 🔬 My research interests include RL with feedback (RLHF/OF/AIF), alignment for Transformers, and anything deeplearning
+- 🔬 My research interests include RL (RLHF/OF/AIF), alignment for Transformers, and anything deep learning
 - 🔥 Currently reading LORA + ROME and working on DL explainability!
 - 🤝 Reach out to work with me!
 
