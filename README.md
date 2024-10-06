@@ -3,11 +3,11 @@
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryan.lagasse@uconn.edu)
 <br>
 
-- 🔭 AI/ML Intern @ Lockheed AI Innovations working with the Intelligent Agents + CVS Teams
+- 🔭 Senior AI/ML Intern @ Lockheed AI Innovations (working with the Intelligent Agents + CVS Teams)
 - 🧪 Alignment Researcher @ UCONN RIET Lab
 - 💻 Leacturer of UCONNs CSE 4095 - Introduction to Transformers!
 - 🔬 My research interests include RL (RLHF/OF/AIF), alignment for Transformers, and anything deep learning
-- 🔥 Currently reading LORA + ROME and working on DL explainability!
+- 🔥 Applying for PhD programs hoping to work on LLM and RL interpretability! 
 - 🤝 Reach out to work with me!
 
 
