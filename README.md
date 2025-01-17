@@ -5,9 +5,9 @@
 
 - 🔭 Senior AI/ML Intern @ Lockheed AI Innovations (working with the Intelligent Agents + CVS Teams)
 - 🧪 Alignment Researcher @ UCONN RIET Lab
-- 💻 Leacturer of UCONNs CSE 4095 - Introduction to Transformers!
-- 🔬 My research interests include RL (RLHF/OF/AIF), alignment for Transformers, and anything deep learning
-- 🔥 Applying for PhD programs hoping to work on LLM and RL interpretability! 
+- 💻 Leacturer of UCONNs CSE 4095 - Introduction to Transformers
+- 🔬 My research interests include RL, LLM Alignment/Interpretability, AI Safety, and anything deep learning
+- 🔥 Applying for PhD programs hoping to work on LLM and RL interpretability
 - 🤝 Reach out to work with me!
 
 
