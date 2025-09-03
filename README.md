@@ -6,7 +6,7 @@
 - 🔭 AI/ML Research Engineer @ Lockheed AI Innovations
 - 🧪 Co-Director and Mentor @ Algoverse AI Research
 - 💻 AI Policy Fellow @ Berkeley
-- 🔬 My research interests include Interitability, Alignment, Control, AI Safety, and anything deep learning/LLMs
+- 🔬 My research interests include Interpretability, Alignment, Control, AI Safety, and anything deep learning/LLMs
 - 🔥 Working on 7 projects that align with my safety goals
 - 🤝 Reach out to work with me!
 
