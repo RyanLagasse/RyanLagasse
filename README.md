@@ -3,8 +3,9 @@
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryan.lagasse@uconn.edu)
 <br>
 
-- 🔭 AI/ML Research Engineer/Scientist @ Lockheed AI Center
-- 🧪 Director and Sr. Researcher @ Algoverse AI Research
+- 🔭 autointerp @ d_model
+- 💻 prev. Foundational AI Research @ Lockheed AI Center
+- 🧪 Mentor @ Algoverse AI Research
 - 🤖 SPAR Fellow w/ Uzay Macar working on Attention Attribution
 - 💻 Prev. Fellowships in AI Policy @ Berkeley AIS @ Blue Dot
 - 🔬 My research interests span Interpretability, Alignment, Control, AI Safety, and anything deep learning/LLMs
